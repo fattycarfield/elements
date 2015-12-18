@@ -8,6 +8,8 @@
   * [2.1可行性分析](possibility/analysis.md)
   * [2.2目标群体](possibility/target.md)
 * [3.作品功能和原型设计](design/README.md)
+  * [3.1总体功能结构和模块的设计](design/functional.md)
+  * [3.2界面设计纸稿](design/design.md)
 * [4.作品实现、特色和难点](chapter2.md)
 * [5.团队介绍和人员分工](chapter3.md)
 * [6.其他](end.md)

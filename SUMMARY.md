@@ -14,7 +14,9 @@
   * [4.1作品实现](realize/realize.md)
   * [4.2特色分析](realize/characteristic.md)
   * [4.3问题和解决方案](realize/trouble.md)
-* [5.团队介绍和人员分工](chapter3.md)
+* [5.团队介绍和人员分工](group/README.md)
+  * [5.1团队介绍](group/teamer.md)
+  * [5.2分工安排](group/division.md)
 * [6.其他](end.md)
-* [7.致谢]
+* [7.致谢](thanks.md)
 

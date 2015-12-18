@@ -1,4 +1,8 @@
-My Awesome Book
+简介
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这其实是一本记录报告。
+
+里面记载着我们团队创作这款手机APP的点滴历程和各种奇妙的ideas。
+
+希望大家能够在里面发现些有趣的东西。

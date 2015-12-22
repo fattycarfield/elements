@@ -17,6 +17,5 @@
 * [5.团队介绍和人员分工](group/README.md)
   * [5.1团队介绍](group/teamer.md)
   * [5.2分工安排](group/division.md)
-* [6.其他](end.md)
-* [7.致谢](thanks.md)
+* [6.致谢](thanks.md)
 

@@ -10,7 +10,7 @@
 * [3.作品功能和原型设计](design/README.md)
   * [3.1总体功能结构和模块的设计](design/design.md)
   * [3.2界面设计纸稿](design/functional.md)
-  * [3.3程序框图]
+  * [3.3程序框图](design/picture.md)
 * [4.作品实现、特色和难点](realize/README.md)
   * [4.1作品实现](realize/realize.md)
   * [4.2特色分析](realize/characteristic.md)
